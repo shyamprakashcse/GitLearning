@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 Full stack Learning Roadmap . 
 
 after merging with html developer I am adding this line . 
-=======
 Full stack Learning Roadmap 
 
 I am CSS Developer but I changed this file . 
->>>>>>> cssDeveloper
