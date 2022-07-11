@@ -1,0 +1,6 @@
+header 
+body 
+footer 
+script 
+tags 
+------------initial _____________--
